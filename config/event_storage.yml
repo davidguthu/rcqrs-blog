@@ -1,8 +1,7 @@
 development:
   adapter: mysql
   database: events
-  username: events
-  password: events
+  username: root
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
